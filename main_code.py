@@ -1259,7 +1259,7 @@ if __name__ == '__main__':
 #    ax2.plot(data.date, data.r_eff_low, color='blue', alpha = 0)
 #    ax2.plot(data.date, data.r_eff_high, color='blue', alpha = 0)
 #    ax2.fill_between(data.date, data.r_eff_low, data.r_eff_high, alpha = 0.1, color = 'blue')
-#    ax2.legend(framealpha = 0, loc = 'lower right', bbox_to_anchor = (1.2855, 0.085))
+#    ax2.legend(framealpha = 0, loc = 'lower right', bbox_to_anchor = (1.292, 0.135), fontsize = 9)
 #    pl.box(False)
 #    pl.savefig('Figure_1.png')
 # 
